@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on dom 21 jun 2020 16:08:37 -03 by Eclipse SUMO GUI Version 1.6.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/fede/Prueba_Sumo.net.xml"/>
+        <route-files value="/home/fede/Prueba_Sumo.rou.xml"/>
+    </input>
+
+</configuration>
