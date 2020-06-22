@@ -1,0 +1,24 @@
+# Introducción SUMO
+
+## Instalación en Linux
+
+La instalación se comenta en la página oficial:
+
+https://sumo.dlr.de/docs/Installing.html
+
+```bash
+sudo add-apt-repository ppa:sumo/stable
+sudo apt-get update
+
+sudo apt-get install sumo sumo-tools sumo-doc
+
+```
+## Ejemplos
+
+Los ejemplos se pueden obtener a través de los tutoriales de SUMO desde la página oficial:
+
+https://sumo.dlr.de/docs/Tutorials.html
+
+En este repositorio se pueden ver algunos ejemplos básicos:
+
+
