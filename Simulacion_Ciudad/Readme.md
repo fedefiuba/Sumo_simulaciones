@@ -18,5 +18,5 @@ sumo-all-1.6.0/tools/osmWebWizard.py
 
 Para este ejemplo se elige CABA, en los alrededores de la FIUBA
 
-![FIUBA](/home/fede/Github_Doc/Sumo_simulaciones/Simulacion_Ciudad.jpg)
+![FIUBA](/home/fede/Github_Doc/Sumo_simulaciones/Simulacion_Ciudad.png)
 
