@@ -28,4 +28,4 @@ Luego, se genera el escenario y se pasa a SUMO, donde se puede correr la simulac
 
 Los bloques amarillos resulta ser lo móviles, colectivos, etc. Esto se ve con más detalle en la siguiente imagen.
 
-![FIUBA](Fiuba_Sim_2.jpg)
+![FIUBA](Fiuba_Sim_3.jpg)
