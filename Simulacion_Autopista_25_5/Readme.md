@@ -55,7 +55,7 @@ datos_vehic.xml: Archivo que contiene los datos de todos los vehículos para cad
 
 A continuación se observa una muestra de las primeras corridas:
 
- <timestep time="0.00">
+  <timestep time="0.00">
         <vehicle id="bike0" x="506.25" y="897.53" angle="193.63" type="bike_bicycle" speed="0.00" pos="1.70" lane="40336330#0_0" slope="0.00"/>
         <vehicle id="truck0" x="1924.82" y="972.14" angle="276.23" type="truck_truck" speed="16.16" pos="7.20" lane="462876181#0_0" slope="0.00"/>
     </timestep>
@@ -83,13 +83,3 @@ A continuación se observa una muestra de las primeras corridas:
         <vehicle id="veh3" x="1277.51" y="1189.35" angle="312.51" type="veh_passenger" speed="2.20" pos="7.30" lane="-21619598#1_0" slope="0.00"/>
         <vehicle id="veh5" x="1149.67" y="1301.98" angle="132.33" type="veh_passenger" speed="10.29" pos="15.39" lane="21619598#0_0" slope="0.00"/>
         <vehicle id="veh8" x="1118.95" y="1491.93" angle="231.41" type="veh_passenger" speed="9.52" pos="5.10" lane="26539416#0_0" slope="0.00"/>
-
-
- 
-
-
-
-
-
-
-
