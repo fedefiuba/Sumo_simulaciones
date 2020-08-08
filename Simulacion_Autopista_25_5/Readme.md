@@ -19,12 +19,12 @@ sumo-all-1.6.0/tools/osmWebWizard.py
 División de Autopistas 25 de Mayo, Perito Moreno y Dellepaine. Coordenadas: -34.649850 -58.465091
 (estas coordenadas se pueden ingresar en osmWebWizard.py)
 
-![FIUBA](Imgs/Autopista_Divison.jpg)
+![FIUBA](Imgs/Autopista_Divison.png)
 
 Luego se puede seleccionar la cantidad de mòviles, buses, motos, etc. En este caso se seleccionan 12 móviles, 8 camiones, 6 colectivos, 4 motos y 6 bicicletas. 
 
 Luego, se genera el escenario y se pasa a SUMO, donde se puede correr la simulación.
 
-![FIUBA](Imgs/Fiuba_Sim_1.jpg)
+![FIUBA](Imgs/Autopista_Divison_Trafico.png)
 
 Los bloques amarillos resulta ser lo móviles, colectivos, etc. 
