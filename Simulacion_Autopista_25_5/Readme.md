@@ -8,11 +8,11 @@ En este caso se construye la División de Autopistas 25 de Mayo, Perito Moreno y
 
 Para simular la ciudad, se puede usar el siguiente módulo de Python osmWebWizard.py, el cual se puede correr como:
 
-python osmWebWizard.py
+__python osmWebWizard.py__
 
 Este módulo se encuentra en la carpeta (a la fecha 08/8/2020 esta es la última versión): 
 
-sumo-all-1.6.0/tools/osmWebWizard.py
+__sumo-all-1.6.0/tools/osmWebWizard.py__
 
 ## Ciudad a simular.
 
@@ -33,11 +33,11 @@ Los bloques amarillos resulta ser lo móviles, colectivos, etc.
 
 Sumo tiene la opción de mostrar varias salidas:
 
-`https://sumo.dlr.de/docs/Simulation/Output.html`
+[https://sumo.dlr.de/docs/Simulation/Output.html](https://sumo.dlr.de/docs/Simulation/Output.html)
 
 Una de ellas que resulta importante para determinar posición, velocidad e inclinación, es FCDOutput:
 
-`https://sumo.dlr.de/docs/Simulation/Output/FCDOutput.html`
+[https://sumo.dlr.de/docs/Simulation/Output/FCDOutput.html](https://sumo.dlr.de/docs/Simulation/Output/FCDOutput.html)
 
 FCD (floating car data) exporta la información de cada vehículo que se encuentra en la simulación del tráfico. Para su utilización se puede usar el siguiente comando:
 
@@ -49,9 +49,9 @@ Para la simulación que se trata, se utiliza de la siguiente forma:
 
 Siendo: 
 
-osm.sumocfg: El archivo que contiene la simulación del tráfico
+__osm.sumocfg:__ El archivo que contiene la simulación del tráfico
 
-datos_vehic.xml: Archivo que contiene los datos de todos los vehículos para cada paso de simulación. Debe cortarse en algún momento durante su ejecución dado que de lo contrario puede generar un peso importante.
+__datos_vehic.xml:__ Archivo que contiene los datos de todos los vehículos para cada paso de simulación. Debe cortarse en algún momento durante su ejecución dado que de lo contrario puede generar un peso importante.
 
 A continuación se observa una muestra de las primeras corridas:
 
