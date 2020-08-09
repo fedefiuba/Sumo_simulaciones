@@ -82,4 +82,13 @@ A continuación se observa una muestra de las primeras corridas:
         <vehicle id="veh5" x="1142.07" y="1308.91" angle="132.33" type="veh_passenger" speed="10.42" pos="5.10" lane="21619598#0_0" slope="0.00"/>
     
     </timestep>`
+
+## Conversión a .csv
+
+Los datos de salida que otorga SUMO se encuentran en formato XML, sin embargo, se puede convertir a CSV mediante:
+
+__python xml2csv.py input.xml__
+
+
+
     
