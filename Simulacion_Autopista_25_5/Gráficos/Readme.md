@@ -14,7 +14,12 @@ Para realizar el gráfico se necesita el archivo .xml con los datos. Por ejemplo
 
 Tener en cuenta que si el archivo se encuentra en otra carpeta, donde dice datos_veh2.xml, se puede incluir la ruta del archivo.
 
-A continuación se observa el gráfico de distancia vs tiempo para el vehículo 2 (veh2)
+A continuación se observa el gráfico de __distancia vs tiempo__ para el vehículo 2 (veh2)
 
 ![distancia vs tiempo](Figure_1.png)
 
+Si se quisiera grafica la __velocidad vs tiempo__ para el vehículo 2 (veh2), hay que modificar la opción __-t__, de __td__ a __ts__
+
+`python plot_trajectories.py datos_veh2.xml -t ts -o plot.png -s`
+
+![velocidad vs tiempo](Figure_2.png)
