@@ -39,7 +39,9 @@ Una de ellas que resulta importante para determinar posición, velocidad e incli
 
 [https://sumo.dlr.de/docs/Simulation/Output/FCDOutput.html](https://sumo.dlr.de/docs/Simulation/Output/FCDOutput.html)
 
-FCD (floating car data) exporta la información de cada vehículo que se encuentra en la simulación del tráfico. Para su utilización se puede usar el siguiente comando:
+### Datos de todo el tráfico
+
+__FCD (floating car data)__ exporta la información de cada vehículo que se encuentra en la simulación del tráfico. Para su utilización se puede usar el siguiente comando:
 
  `--fcd-output <FILE>`
 
@@ -82,6 +84,16 @@ A continuación se observa una muestra de las primeras corridas:
         <vehicle id="veh5" x="1142.07" y="1308.91" angle="132.33" type="veh_passenger" speed="10.42" pos="5.10" lane="21619598#0_0" slope="0.00"/>
     
     </timestep>`
+
+### Datos de un vehículo en particular
+
+Si fuera necesario filtrar los datos de un vehículo en particular, por ejemplo el vehículo cuyo __id__ sea __veh2__, se puede usar el siguiente comando:
+
+`--device.fcd.explicit veh2`
+
+el cual debe ir concatenado con la salida de los archivos, es decir:
+
+`sumo -c osm.sumocfg --fcd-output datos_veh2.xml --device.fcd.explicit veh2`
 
 ## Conversión a .csv
 
