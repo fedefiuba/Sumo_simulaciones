@@ -14,3 +14,7 @@ Para realizar el gráfico se necesita el archivo .xml con los datos. Por ejemplo
 
 Tener en cuenta que si el archivo se encuentra en otra carpeta, donde dice datos_veh2.xml, se puede incluir la ruta del archivo.
 
+A continuación se observa el gráfico de distancia vs tiempo para el vehículo 2 (veh2)
+
+![distancia vs tiempo](Figure_1.png)
+
