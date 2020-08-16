@@ -26,6 +26,6 @@ Si se quisiera grafica la __tiempo vs velocidad__ para el vehículo 2 (veh2), ha
 
 Si se quisiera grafica la __distancia vs velocidad__ para el vehículo 2 (veh2), hay que modificar la opción __-t__, de __td__ a __ds__
 
-`python plot_trajectories.py datos_veh2.xml -t ts -o plot.png -s`
+`python plot_trajectories.py datos_veh2.xml -t ds -o plot.png -s`
 
 ![distancia vs velocidad](Figure_3.png)
