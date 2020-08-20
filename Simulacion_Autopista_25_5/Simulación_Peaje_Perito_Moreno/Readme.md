@@ -6,7 +6,7 @@
 
 Fuente: [https://www.ausa.com.ar/documentos/AUSA-Mapa-Autopistas.pdf](https://www.ausa.com.ar/documentos/AUSA-Mapa-Autopistas.pdf)
 
-Mapa de Au.25 de Mayo unión con Au.Perito Moreno, para observar dónde se ubica el Peaje Perito Moreno.
+Mapa de Au.25 de Mayo unión con Au.Perito Moreno, para observar dónde se ubica el Peaje Perito Moreno (imagen obtenida de Google Maps).
 
 ![Peaje](Imgs/Mapa_25_5_PPM.png)
 
@@ -21,19 +21,19 @@ La imagen anterior se puede obtener con la coordenada: `-34.642933, -58.461665`
 
 __Simulando con SUMO__
 
-Se introducen las coordenadas en osmWebWizard y se obtiene el mapa para la simulación. A continuación se muestra la simulación en SUMO donde se ve cómo los autos que vienen por la Au.25 de Mayo se dividen por la Au.Perito Moreno y por la Au.Dellepiane. Para ver las trayectorias de cada móvil, se puede hacer click derecho sobre el móvil que se desea ver y agregar "mostrar ruta" (Show Current Route). En color amarrillo se ve la trayectoria:
+Se introducen las coordenadas en osmWebWizard y se obtiene el mapa para la simulación. A continuación se muestra la simulación en SUMO donde se ve cómo los autos que vienen por la Au.25 de Mayo se dividen por la Au.Perito Moreno y por la Au.Dellepiane. Para ver las trayectorias de cada móvil, se puede hacer click derecho sobre el móvil que se desea ver y agregar "Show Current Route". En color amarrillo se ve la trayectoria:
 
-__Móvil hacia Au.Perito Moreno__  id del móvil:__veh1769__
+__Móvil hacia Au.Perito Moreno__.  id del móvil: __veh1769__
 
 ![Peaje](Imgs/Movil_hacia_PM.png)
 
-El mismo móvil pasa por el peaje __PPM__
+El mismo móvil pasa por el peaje __PPM__ (barra de color blanco)
 
 ![Peaje](Imgs/Movil_hacia_PPM.png)
 
 
 
-__Móvil hacia Au.Dellepiane__  id del móvil:__veh3273__
+__Móvil hacia Au.Dellepiane__.  id del móvil: __veh3273__
 
 ![Peaje](Imgs/Movil_hacia_Dell.png)
 
