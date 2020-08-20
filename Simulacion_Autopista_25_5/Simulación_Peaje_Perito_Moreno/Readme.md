@@ -6,6 +6,10 @@
 
 Fuente: [https://www.ausa.com.ar/documentos/AUSA-Mapa-Autopistas.pdf](https://www.ausa.com.ar/documentos/AUSA-Mapa-Autopistas.pdf)
 
+Mapa de Au.25 de Mayo unión con Au.Perito Moreno, para observar dónde se ubica el Peaje Perito Moreno.
+
+![Peaje](Imgs/Mapa_25_5_PPM.png)
+
 ## Análisis de móviles
 
 En base a la imagen anterior, se propone simular la cantidad de móviles que pasan por el Peaje Perito Moreno  __(PPM)__. Para esto, se toma la Autopista 25 de Mayo la cual se une con la Autopista Perito Moreno, ya que sobre esta última se ubica el Peaje Perito Moreno. Para determinar cuántos móviles pasan por el __PPM__, hay que tener en cuenta que la Au.25 de Mayo se divide en Au. Perito Moreno y en Au. Dellepiane, luego de Plaza de los Virreyes. Esto se muestra a continuación (imagen obtenida de Google Maps):
