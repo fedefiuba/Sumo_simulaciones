@@ -19,4 +19,5 @@ __Simulando con SUMO__
 ![Peaje](Imgs/Sumo_Alberti_Simulacion.png)
 
 En la imagen anterior se puede observar cómo los móviles toman direcciones distintas ante la bajada de Alberti. Uno de ellos sigue por la Au. 25 de Mayo y el otro toma la bajada.
+En base a esto, se propone seguir la dirección del móvil que continúa por la Au. 25 de Mayo para saber si llega al Peaje Perito Moreno.
 
