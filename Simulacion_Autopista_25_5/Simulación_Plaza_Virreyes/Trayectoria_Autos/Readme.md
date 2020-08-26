@@ -32,29 +32,10 @@ __id:39910457_0__
 
 ## Gráficos de trayectorias:
 
-En base a esto se genera dos archivos, uno .xml y otro .csv, los cuales contienen las trayectorias de cada vehículo.
+En base a esto se genera el archivo dos_veh.csv que contiene los datos de ambos vehículos. Luego se pasa este archivo a .xml mediante:
 
-Se genera el archivo __datos_veh32.xml__ a partir del siguiente comando:
+python csv2xml.py dos_veh.csv
 
-`sumo -c osm.sumocfg --fcd-output datos_veh32.xml --device.fcd.explicit veh32`
-
-Luego se convierte a __.csv__ mediante:
-
-`python xml2csv.py datos_veh32.xml`
-
-Lo mismo se repite para el __veh33__
-
-Con estos archivos se puede entonces graficar distancia vs tiempo mediante:
-
-`python plot_trajectories.py datos_veh32.xml -t td -o veh32.png -s`
-
-![Peaje](Imgs/Veh32.png)
-
-Se repite lo mismo para el veh33:
-
-`python plot_trajectories.py datos_veh33.xml -t td -o veh33.png -s`
-
-![Peaje](Imgs/Veh33.png)
 
 
 
