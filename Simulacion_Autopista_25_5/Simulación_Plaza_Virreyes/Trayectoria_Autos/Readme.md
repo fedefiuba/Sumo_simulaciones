@@ -36,6 +36,10 @@ Graficando ambos vehículos en el plano (x,y), quedan:
 
 ![Peaje](Imgs/Ambos_Veh.png)
 
+En color __azul__ se representa al __veh32__
+
+En color __negro__ se representa al __veh33__
+
 Graficando a cada uno por separado:
 
 __veh32__
