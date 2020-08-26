@@ -17,19 +17,6 @@ En las siguientes imágenes se observan sus trayectorias sobre las autopistas
 ![Peaje](Imgs/Movil_hacia_Dell.png)
 
 
-Los __ids__ de las Autopistas a analizar son:
-
-La que sale de plaza de los Virreyes, que tiene seis carriles:
-__id: 325213134_0, 325213134_3__ (izqiuerda a derecha)
-
-La que va hacia PM, que tiene tres carriles:
-
-__id:18908030_0__
-
-La que va hacia la Dellepiane, que tiene dos carriles:
-
-__id:39910457_0__
-
 ## Gráficos de trayectorias:
 
 Graficando ambos vehículos en el plano (x,y), quedan:
@@ -40,7 +27,7 @@ En color __azul__ se representa al __veh32__
 
 En color __negro__ se representa al __veh33__
 
-Graficando a cada uno por separado:
+Graficando a cada uno por separado pero tomando la distancia en función del tiempo:
 
 __veh32__
 
