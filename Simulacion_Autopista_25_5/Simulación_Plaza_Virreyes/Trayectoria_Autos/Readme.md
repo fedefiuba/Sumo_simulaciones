@@ -27,6 +27,9 @@ En color __azul__ se representa al __veh32__
 
 En color __negro__ se representa al __veh33__
 
+En el gráfico anterior, se observa cómo los móviles se desplazan por carriles distintos y luego se juntan más adelante.
+
+
 Graficando a cada uno por separado pero tomando la distancia en función del tiempo:
 
 __veh32__
