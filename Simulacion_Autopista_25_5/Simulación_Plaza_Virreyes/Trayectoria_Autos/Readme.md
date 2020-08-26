@@ -10,7 +10,10 @@ a) __veh32__ del archivo __PPM_00.csv__, el cual viaja por el __carril 0__ de la
 
 b) __veh33__ del archivo __Delle_30.csv__, el cual viaja por el __carril 3__ de la Au.25 de Mayo y sigue por la Dellepiane.
 
-En las siguientes imágenes se observan sus trayectorias sobre las autopistas
+En las siguiente imagen se observa la trayectoria del veh32 sobre las autopistas
+
+![Peaje](Imgs/Movil_hacia_PM.png)
+
 
 ## Gráficos de trayectorias:
 
