@@ -12,11 +12,6 @@ b) __veh33__ del archivo __Delle_30.csv__, el cual viaja por el __carril 3__ de 
 
 En las siguientes imágenes se observan sus trayectorias sobre las autopistas
 
-![Peaje](Imgs/Movil_hacia_PM.png)
-
-![Peaje](Imgs/Movil_hacia_Dell.png)
-
-
 ## Gráficos de trayectorias:
 
 Graficando ambos vehículos en el plano (x,y), quedan:
