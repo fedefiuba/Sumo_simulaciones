@@ -32,14 +32,21 @@ __id:39910457_0__
 
 ## Gráficos de trayectorias:
 
-En base a esto se genera el archivo dos_veh.csv que contiene los datos de ambos vehículos. Luego se pasa este archivo a .xml mediante:
+Graficando ambos vehículos en el plano (x,y), quedan:
 
-python csv2xml.py dos_veh.csv
+![Peaje](Imgs/Ambos_Veh.png)
 
+Graficando a cada uno por separado:
 
+__veh32__
 
+![Peaje](Imgs/Veh_32.png)
 
+Graficando a cada uno por separado:
 
+__veh33__
+
+![Peaje](Imgs/Veh_32.png)
 
 
 
