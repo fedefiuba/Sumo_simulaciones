@@ -37,17 +37,3 @@ En el gráfico anterior se puede observar de derecha a izquierda. De esta forma,
 
 
 
-Graficando a cada uno por separado pero tomando la distancia en función del tiempo:
-
-__veh32__
-
-![Peaje](Imgs/Veh_32.png)
-
-Graficando a cada uno por separado:
-
-__veh33__
-
-![Peaje](Imgs/Veh_32.png)
-
-
-
