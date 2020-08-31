@@ -27,6 +27,10 @@ En color __negro__ se representa al __veh33__
 
 En el gráfico anterior se puede observar de derecha a izquierda. De esta forma, se puede ver que inicialmente los móviles mantienen una distancia entre ellos, casi constante. Luego de pasar por el peaje __(puntos P1 y P2)__, el __veh32 (color azul)__ sigue la trayectoria por la Au. Perito Moreno y el __veh33 (color negro)__ comienza a distanciarse, dado que toma la Au. Dellepiane.
 
+## Distancia entre autos
+
+![Peaje](Imgs/Distancia_autos.png)
+
 ## Gráfico de velocidades:
 
 ![Peaje](Imgs/Ambos_Vel.png)
@@ -44,7 +48,6 @@ Graficando a cada uno por separado:
 __veh33__
 
 ![Peaje](Imgs/Veh_32.png)
-
 
 
 
