@@ -31,7 +31,7 @@ En el gráfico anterior se puede observar de derecha a izquierda. De esta forma,
 
 ![Peaje](Imgs/Distancia_autos.png)
 
-El puno __P__ indica que el Veh33 sigue por la misma autopista pero aumenta su distancia con respecto a Veh32
+En el punto __Peaje__, es donde comienzan a distanciarse los vehículos. Luego a partir del puno __P__ el Veh33 sigue por la misma autopista pero aumenta su distancia con respecto a Veh32.
 
 ## Gráfico de velocidades:
 
