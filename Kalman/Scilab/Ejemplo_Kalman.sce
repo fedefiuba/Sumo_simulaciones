@@ -22,13 +22,13 @@ t=0:0.05:30;
 H_2do_orden=syslin('c',A,B,C)
 
 //Respuesta al escalón de un sistema de Primer orden en Lazo Abierto
-//plot(t',csim('step',t,H_2do_orden)','b')
-//xlabel( " Tiempo " ) ;
-//ylabel(" Desplazamiento " ) ;
-//title("Desplazamiento Masa-Resorte-Amort" )
+plot(t',csim('step',t,H_2do_orden)','b')
+xlabel( " Tiempo " ) ;
+ylabel(" Desplazamiento " ) ;
+title("Desplazamiento Masa-Resorte-Amort" )
 
 
-//figure
+figure
 
 // Salida del sistema con ruio
 v=0.5*rand(t,"normal");
