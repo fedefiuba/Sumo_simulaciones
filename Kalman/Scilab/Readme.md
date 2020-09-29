@@ -7,6 +7,9 @@ Trayectoria del móvil
 ![FIUBA](Imgs/Trayec.png)
 
 
-Trayectoria obtenida con Filtro de Kalman
+Trayectoria obtenida con Filtro de Kalman.
+
+En rojo la trayectoria del móvil con ruido.
+En negro la trayectoria obtenida mediante Kalman
 
 ![FIUBA](Imgs/Trayec_Kalman.png)

@@ -30,7 +30,7 @@ title("Desplazamiento Masa-Resorte-Amort" )
 
 figure
 
-// Salida del sistema con ruio
+// Salida del sistema con ruido
 v=0.5*rand(t,"normal");
 [m,x_estado]=csim('step',t,H_2do_orden)
 //y = m+v;
