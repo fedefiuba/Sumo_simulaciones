@@ -71,7 +71,7 @@ Pkp = A*P(:,:,i-1)*A' + Q;
 //**************************
 //Ganancia de Kalman
 
-K = Pkp*C' / (C*Pkp*C' + R);
+K = (Pkp*C')*inv(C*Pkp*C' + R);
 
 //**************************
 // Actualización
