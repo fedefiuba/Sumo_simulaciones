@@ -4,12 +4,15 @@ Se utiliza el modelo un sistema Masa-Resorte-Amortuguador y se observa la trayec
 
 Trayectoria del móvil
 
-![FIUBA](Imgs/Trayec.png)
+![FIUBA](Imgs/Trayectoria.png)
 
 
 Trayectoria obtenida con Filtro de Kalman.
 
-En rojo la trayectoria del móvil con ruido.
-En negro la trayectoria obtenida mediante Kalman
+![FIUBA](Kalman_Ruido.png)
 
-![FIUBA](Imgs/Trayec_Kalman.png)
+Viendo más de cerca:
+
+![FIUBA](Kalman_Ruido_1.png)
+
+![FIUBA](Kalman_Ruido_2.png)
