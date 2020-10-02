@@ -9,10 +9,10 @@ Trayectoria del móvil
 
 Trayectoria obtenida con Filtro de Kalman.
 
-![FIUBA](Kalman_Ruido.png)
+![FIUBA](Imgs/Kalman_Ruido.png)
 
 Viendo más de cerca:
 
-![FIUBA](Kalman_Ruido_1.png)
+![FIUBA](Imgs/Kalman_Ruido_1.png)
 
-![FIUBA](Kalman_Ruido_2.png)
+![FIUBA](Imgs/Kalman_Ruido_2.png)
