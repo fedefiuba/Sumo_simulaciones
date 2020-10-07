@@ -37,5 +37,29 @@ En el punto __Peaje__, es donde comienzan a distanciarse los vehículos. Luego a
 
 ![Peaje](Imgs/Ambos_Vel.png)
 
+## Estimación de Trayectorias
+
+Teniendo en cuenta la trayectoria de cada móvil, a continuación se muestra una estimación usando Filtro de Kalman. Para esto se utiliza al móvil ̣__veh32__, tomando la distancia en función del tiempo. Esto queda:
+
+![Peaje](Imgs/veh_32.png)
+
+La trayectoria anterior no contempla el "ruido" que pudiera tener. A continuación se muestra la misma trayectoria con "ruido"
+
+![Peaje](Imgs/veh_32_ruido.png)
+
+Mediante Kalman, se estima la trayectoria del móvil con "ruido"
+
+![Peaje](Imgs/veh_32_kalman.png)
+
+En base a esto, se muestran dos imágenes. La primera muestra cómo se adapta el Filtro de Kalman desde una condición inicial nula y la segunda muestra un zoom de un tramo de la trayectoria
+
+![Peaje](Imgs/veh_32_adapt.png)
+
+![Peaje](Imgs/veh_32_kalman_tramo.png)
+
+
+
+
+
 
 
