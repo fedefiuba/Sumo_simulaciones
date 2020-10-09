@@ -39,7 +39,15 @@ En el punto __Peaje__, es donde comienzan a distanciarse los vehículos. Luego a
 
 ## Estimación de Trayectorias
 
-Teniendo en cuenta la trayectoria de cada móvil, a continuación se muestra una estimación usando Filtro de Kalman. Para esto se utiliza al móvil ̣__veh32__, tomando la distancia en función del tiempo. Esto queda:
+Teniendo en cuenta la trayectoria de cada móvil, a continuación se muestra una estimación usando Filtro de Kalman. Para esto se utiliza al móvil ̣__veh32__, tomando la distancia en función del tiempo. En base a esto, se utilizan las siguientes ecuaciones:
+
+p<sub>k</sub> = p<sub>k-1</sub> + $\Delta v<sub>k-1</sub> 
+
+v<sub>k-1</sub> =                        v<sub>k-1</sub> 
+
+
+
+Esto queda:
 
 ![Peaje](Imgs/veh_32.png)
 
