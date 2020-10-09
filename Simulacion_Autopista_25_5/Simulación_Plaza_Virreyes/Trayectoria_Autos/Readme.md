@@ -45,10 +45,16 @@ p<sub>k</sub> = p<sub>k-1</sub> + &Delta;t v<sub>k-1</sub>
 
 v<sub>k-1</sub> =                        v<sub>k-1</sub> 
 
-$\left[\begin{array}{ccc}
-10 & 0\\
+$$
+\begin{pmatrix}
+0.8944272 & 0.4472136\\
+-0.4472136 & -0.8944272
+\end{pmatrix}
+\begin{pmatrix}
+10 & 0\\ 
 0 & 5
-\end{array}\right]$
+\end{pmatrix}
+$$
 
 
 Esto queda:
