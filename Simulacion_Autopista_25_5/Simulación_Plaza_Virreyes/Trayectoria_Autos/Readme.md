@@ -45,9 +45,10 @@ p<sub>k</sub> = p<sub>k-1</sub> + &Delta;t v<sub>k-1</sub>
 
 v<sub>k-1</sub> =                        v<sub>k-1</sub> 
 
-$$\begin{bmatrix}1 & &Delta;t\\
+$$(\begin{array}{cc}
+1 & &Delta;t\\
 0 & 1\\
-\end{bmatrix}$$
+\end{array})$$
 
 
 
