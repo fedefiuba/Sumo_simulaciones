@@ -45,18 +45,6 @@ p<sub>k</sub> = p<sub>k-1</sub> + &Delta;t v<sub>k-1</sub>
 
 v<sub>k-1</sub> =                        v<sub>k-1</sub> 
 
-$$
-\begin{pmatrix}
-0.8944272 & 0.4472136\\
--0.4472136 & -0.8944272
-\end{pmatrix}
-\begin{pmatrix}
-10 & 0\\ 
-0 & 5
-\end{pmatrix}
-$$
-
-
 Esto queda:
 
 ![Peaje](Imgs/veh_32.png)
