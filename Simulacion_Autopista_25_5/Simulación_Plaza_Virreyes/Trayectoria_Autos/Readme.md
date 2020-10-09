@@ -45,11 +45,10 @@ p<sub>k</sub> = p<sub>k-1</sub> + &Delta;t v<sub>k-1</sub>
 
 v<sub>k-1</sub> =                        v<sub>k-1</sub> 
 
-$$(\begin{array}{cc}
-1 & &Delta;t\\
-0 & 1\\
-\end{array})$$
-
+$\left[\begin{array}{ccc}
+10 & 0\\
+0 & 5
+\end{array}\right]$
 
 
 Esto queda:
