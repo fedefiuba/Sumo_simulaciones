@@ -16,8 +16,9 @@ sudo apt-get install sumo sumo-tools sumo-doc
 
 Además, conviene bajar el paquete completo con todas las herramientas:
 
+## All-inclusive-tarball#
+
 ```bash
-All-inclusive-tarball#
 sumo-all-x.xx.x.tar.gz
 ```
 
