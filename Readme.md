@@ -13,6 +13,14 @@ sudo apt-get update
 sudo apt-get install sumo sumo-tools sumo-doc
 
 ```
+
+Además, conviene bajar el paquete completo con todas las herramientas:
+
+```bash
+All-inclusive-tarball#
+sumo-all-x.xx.x.tar.gz
+```
+
 ## Ejemplos
 
 Los ejemplos se pueden obtener a través de los tutoriales de SUMO desde la página oficial:
